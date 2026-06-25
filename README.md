@@ -2,10 +2,6 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Iker Barturen
 
-### Backend Developer • Software Engineering Student • Cloud Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=D96C3F&center=true&vCenter=true&width=700&lines=Backend+Developer;Microservices+%7C+Cloud+Architecture;Go+%7C+Java+%7C+Python+%7C+C%2B%2B;Always+building+something+new."/>
-
 </div>
 
 # GitHub Analytics
@@ -14,7 +10,7 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=krxxg04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krxxg04&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krxxg04&layout=compact&theme=tokyonight&hide_border=true"](https://github-readme-stats.vercel.app/api/top-langs/?username=krxxg04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8/>
 
 </p>
 
