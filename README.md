@@ -29,5 +29,3 @@
   <img src="./assets/deadpool.gif" alt="Deadpool banner" width="400"/>
 </div>
 
-<img src="./assets/deadpool.gif" alt="banner" width="400"/>
-
