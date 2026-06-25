@@ -8,68 +8,7 @@
 
 </div>
 
----
-
-## ⚡ About Me
-
-```yaml
-Name: Iker Barturen
-Location: Lima, Peru 🇵🇪
-
-Education:
-  - Software Engineering @ UPC
-
-Interested in:
-  - Backend Development
-  - Distributed Systems
-  - Cloud Computing
-  - Microservices
-  - System Design
-
-Currently Learning:
-  - Kubernetes
-  - Rust
-  - Azure
-  - Software Architecture
-```
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=go,java,python,cpp,dart,js,ts"/>
-</p>
-
-### Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,flutter,nodejs"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
-</p>
-
-### DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,azure,githubactions,git,linux"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=idea,vscode,postman,figma"/>
-</p>
-
----
-
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 
@@ -87,7 +26,7 @@ Currently Learning:
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 
@@ -97,51 +36,13 @@ Currently Learning:
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=krxxg04&theme=tokyonight&no-frame=true&column=4"/>
 
 </p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| ⚡ SEMS | Smart Energy Management System built with Microservices |
-| 💰 Oso Francés | Personal Finance Web Application |
-| 🍽 Restaurant QR | QR Ordering System |
-| 🌐 API Gateway | Spring Cloud Gateway |
-
----
-
-## 🌎 Connect with me
-
-<p>
-
-<a href="mailto:ikerbarturen659@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D96C3F?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/krxxg04">
-<img src="https://img.shields.io/badge/GitHub-1B1B1B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-B2472F?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-> **"Code is temporary. Architecture is forever."**
-
 </div>
 <img src="./assets/deadpool.gif" alt="banner" width="400"/>
 
